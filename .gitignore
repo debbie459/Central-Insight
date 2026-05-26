@@ -1,0 +1,6 @@
+.env
+.ipynb_checkpoints/
+chroma/
+docstore/
+data-reg/
+Central Insight.ipynb
